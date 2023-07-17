@@ -1,6 +1,9 @@
-girish 
-new learning
-
-second commit 
-third commit 
-fourth commit
+git init -> to create a repository 
+git status -> to check the commited stagged files
+git log -> to check the commited files
+git add . -> to add all unstagged files to stagged 
+git add <filename> -> to add particular file name to stagged 
+git rm --cached filename -> to remove from stagged to unstagged 
+git stash --> to put the stagged files to stash area 
+git stash pop --> to bring back stash files from stash area 
+git stash clear --> to clear files in stash area
